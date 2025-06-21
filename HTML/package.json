@@ -10,7 +10,7 @@
         "> 2%"
     ],
     "scripts": {
-        "dev": "gulp",
+        "dev": "npm run dev",
         "build": "NODE_ENV=production gulp build"
     },
     "devDependencies": {
